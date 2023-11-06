@@ -44,14 +44,14 @@ This project leverages a cutting-edge technology stack to deliver a seamless dev
 
 To get a local copy up and running, follow these simple steps:
 
-1. Clone the repository: `git clone `
-2. Navigate to the project directory: `cd `
+1. Clone the repository: `git clone https://github.com/UtsavSoftrefineTech/reduxToolkitTodo.git`
+2. Navigate to the project directory: `cd reduxToolkitTodo`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm run dev`
 
 ## Demo
 
-Check out the live demo of the app [Todos Tracker](https://your-demo-link.com).
+Check out the live demo of the app [Todos Tracker](https://todos-with-redux-toolkit.netlify.app/).
 
 ## Contributing
 
